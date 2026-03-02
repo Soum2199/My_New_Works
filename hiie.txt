@@ -7,3 +7,6 @@ console.log("My variable a is ", a)
 console.log("Hello world")
 //Bye!
  //Good day
+
+const port = 9000;
+app.listen(port,()=> console.log("my server runs on port" + port))

@@ -1,0 +1,6 @@
+we need some career paths, they are listed as:
+Dev Ops
+cloud Ops
+Data Scientist / Analyst
+different types of analyst (eg. Business ones);
+

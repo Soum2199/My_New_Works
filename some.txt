@@ -1,5 +1,15 @@
 Hello, go get up do it for yourself
 This is your moment!.
 Greetings!.
+<<<<<<< HEAD
 
 Happy USA Independence Day!.
+=======
+Greetings for / of the day.
+Happy Moments ahead!.
+
+FEAR = face everything and rise
+or
+forget everything and run
+yôur choice.
+>>>>>>> 66079794b3224d75b26b2ab4306ae84d1b7fd8b7
